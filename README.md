@@ -1,14 +1,19 @@
-# Artistic Project
+# <img src="https://api.iconify.design/lucide:palette.svg?color=%238A2BE2" width="32" height="32" align="center" /> Artistic Workshop
 
-> A multi-page static website for an artistic workshop studio — products, workshops, and customer contact built with semantic HTML and CSS.
+> **A multi-page static website for an artistic workshop studio.**
+> Semantic HTML and CSS architecture focused on workshops, products, and creative booking.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Static Site](https://img.shields.io/badge/Type-Static_Site-lightgrey?style=for-the-badge)
+<div align="center">
+
+| Project Status | Type                                                                                      | Structure                                                                                        | Deployment           |
+| :------------- | :---------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- | :------------------- |
+| `STABLE`       | ![Static Site](https://img.shields.io/badge/Type-Static_Site-lightgrey?style=flat-square) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | `Local/GitHub Pages` |
+
+</div>
 
 ---
 
-## 📋 Table of Contents
+## <img src="https://api.iconify.design/lucide:list.svg?color=%238A2BE2" width="20" height="20" align="center" /> Table of Contents
 
 - [Overview](#overview)
 - [Pages](#-pages)
@@ -26,7 +31,9 @@ No JavaScript frameworks or CSS preprocessors are used — the entire site is au
 
 ---
 
-## 📄 Pages
+---
+
+## <img src="https://api.iconify.design/lucide:file-text.svg?color=%238A2BE2" width="20" height="20" align="center" /> Pages
 
 | Page          | Route            | Description                                         |
 | ------------- | ---------------- | --------------------------------------------------- |
@@ -39,7 +46,9 @@ No JavaScript frameworks or CSS preprocessors are used — the entire site is au
 
 ---
 
-## 💻 Tech Stack
+---
+
+## <img src="https://api.iconify.design/lucide:cpu.svg?color=%238A2BE2" width="20" height="20" align="center" /> Tech Stack
 
 | Layer            | Technology                                   |
 | ---------------- | -------------------------------------------- |
@@ -50,7 +59,9 @@ No JavaScript frameworks or CSS preprocessors are used — the entire site is au
 
 ---
 
-## 📁 Project Structure
+---
+
+## <img src="https://api.iconify.design/lucide:folder-tree.svg?color=%238A2BE2" width="20" height="20" align="center" /> Project Structure
 
 ```
 artistic-project/
@@ -70,7 +81,9 @@ artistic-project/
 
 ---
 
-## 🚀 Getting Started
+---
+
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%238A2BE2" width="20" height="20" align="center" /> Getting Started
 
 ```bash
 # Clone the repository
